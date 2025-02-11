@@ -38,11 +38,20 @@ kubectl apply -f ollama-k8s.yaml
 - https://github.com/otwld/ollama-helm
 
 <!-- TODO
+- code-explain
+  - Python codebase summarizer? Recursively look at this file/directory and describe its operations?
+  - Be able to chat and ask questions of the codebase?
+  - Stream the results
+  - How to deal with context window constraints?
 - granite-code
-- Modelfiles. Fine-tuning an existing Model.
-- https://github.com/otwld/ollama-helm
+- Code review assistant
+- Documentation generator
+- Natural language query interface for databases
 - deepseek-r1
 - llama3.2
+- Modelfiles. Fine-tuning an existing Model.
+- IBM Granite Models? Granite Time Series Foundation Model?
+- https://github.com/otwld/ollama-helm
 -->
 
 <!-- DONE
